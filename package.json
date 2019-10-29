@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-authentification",
+  "version": "1.0.0",
+  "description": "A simple authentification system written in Nodejs. Will be used in future projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnohall/Nodejs-Authentification.git"
+  },
+  "keywords": [
+    "login",
+    "node",
+    "js",
+    "authentification"
+  ],
+  "author": "cnohall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnohall/Nodejs-Authentification/issues"
+  },
+  "homepage": "https://github.com/cnohall/Nodejs-Authentification#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
